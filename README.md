@@ -1,2 +1,2 @@
 # ddlcsubmods
-# just a fun hobby im doing
+# just put the folders into the submods folder
