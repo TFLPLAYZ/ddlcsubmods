@@ -103,7 +103,7 @@ label monika_honkai3:
                     m 7gsd "sense to the lore of those games."
                     m 7esb "Still It's amazinng that they managed to do it."
                     m 5esb "They have my respect for it."
-        "No, it doesn't do collabs":
+        "No, it doesn't do any collabs":
             m 7eub "I see..."
             m 7euc "well that's kinda dissappointing."
             m 7ekb "Thank you for answering [player]?"
